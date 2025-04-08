@@ -9,6 +9,7 @@ ffmpeg-python
 gitpython
 hachoir
 heroku3
+httpx[http2]==0.27.2
 pykeyboard
 pyshorteners
 motor==3.4.0
