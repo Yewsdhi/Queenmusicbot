@@ -1,5 +1,5 @@
 from pyrogram import Client, filters
-import alpha_2
+import <module>
 from AnonXMusic import app 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
