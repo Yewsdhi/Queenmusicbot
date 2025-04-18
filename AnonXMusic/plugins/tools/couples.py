@@ -15,7 +15,7 @@ POLICE = [
     [
         InlineKeyboardButton(
             text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
-            url=f"https://t.me/Arthey_bot?startgroup=true",
+            url=f"https://t.me/@Queenhoneybot?startgroup=true",
         ),
     ],
 ]
@@ -111,8 +111,8 @@ async def ctest(_, message):
 
  {N1} + {N2} = ♥︎
 
-❖ ɴᴇxᴛ ᴄᴏᴜᴘʟᴇ sᴇʟᴇᴄᴛᴇᴅ ᴏɴ {tomorrow}
-▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
+❖ ɴᴇxᴛ ᴄᴏᴜᴘʟᴇ sᴇʟᴇᴄᴛᴇᴅ ᴏɴ {today}
+▰▱▰▱▰▱▰▱
 """
     
          await message.reply_photo(f"test_{cid}.png", caption=TXT, reply_markup=InlineKeyboardMarkup(POLICE),
