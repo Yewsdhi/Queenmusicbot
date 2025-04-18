@@ -26,7 +26,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
-            InlineKeyboardButton(text="ʀᴇᴇᴘᴏ", url=f"https://github.com/Roninbyrne/Arthey_Music"),
+            InlineKeyboardButton(text="ʀᴇᴇᴘᴏ", url=f"https://files.catbox.moe/ngufvw.mp4"),
         ],
         [
             InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/About_baba"),
