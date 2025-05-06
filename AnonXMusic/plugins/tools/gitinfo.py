@@ -65,7 +65,7 @@ async def github(_, message):
 ● ғᴏʟʟᴏᴡᴇʀs ➥ {followers}
 ● ғᴏʟʟᴏᴡɪɴɢ ➥ {following}
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ~ 𝐀𝐫𝐭𝐡𝐞𝐲"""
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ~ Royal"""
 
             except Exception as e:
                 print(str(e))
