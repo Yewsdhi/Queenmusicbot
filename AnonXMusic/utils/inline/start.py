@@ -29,7 +29,7 @@ def private_panel(_):
             InlineKeyboardButton(text="ʀᴇᴇᴘᴏ", url=f"https://files.catbox.moe/ngufvw.mp4"),
         ],
         [
-            InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ll_DPZ_WORLDS_ll"),
+            InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Motivating_Minds"),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
        [InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")],
